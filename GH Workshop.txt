@@ -1,7 +1,3 @@
 Github Workshop
 
-<<<<<<< Updated upstream
-Testingplace
-=======
-Why you should always fetch 
->>>>>>> Stashed changes
+
